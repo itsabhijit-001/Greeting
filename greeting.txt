@@ -1,2 +1,3 @@
 Hi everyone this is a greeting page.
 This is some changes in new branch.
+this are some other changes to create conflicts.
